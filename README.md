@@ -1,6 +1,6 @@
-# 🔐 Kubernetes Pod Security & Networking Lab
+# 🔐 Kubernetes Pod Security & Networking 
 
-A hands-on lab covering Pod Security Admission (PSA) and Network Policies in Kubernetes.
+A hands-on  covering Pod Security Admission (PSA) and Network Policies in Kubernetes.
 
 ---
 
